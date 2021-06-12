@@ -1,6 +1,3 @@
-
-![](../iHealth/src/res/images/patient.png)
-
 [iHealth](https://github.com/RynnDesmond/iHealth.git) is a clinic appointment system written in Java using JavaFX
 
 ## Contributors
